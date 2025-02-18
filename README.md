@@ -20,10 +20,6 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/7lo8WxqQsQ.gif"  />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="59" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="59" height="40" alt="instagram logo"  />
